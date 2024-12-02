@@ -1,0 +1,15 @@
+*{
+    font-family: "Montserrat", sans-serif;;
+}
+
+header{
+    background-color: #D4F6FF;
+}
+
+.nav-item a{
+    color: #3e9fe4;
+}
+
+.perfil{
+    color:#3e9fe4;
+}
