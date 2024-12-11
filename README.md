@@ -19,7 +19,10 @@ ______
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
 
 ### Vista Previa
-![Proyecto](assets/CapturaPortafolio.png)
+![Proyecto](assets/Portafolio%201.png)
+![Proyecto](assets/Portafolio%202.png)
+![Proyecto](assets/Portafolio%203.png)
+![Proyecto](assets/Portafolio%204.png)
 _________________
 ### *Espero pronto saber de ti*
 *Correo*
